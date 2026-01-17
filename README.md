@@ -1,4 +1,7 @@
 # http5113-special-topics-in-web-development
+
+Humber Polytechnic Semester 1 Web Development
+
 This is a class that will discuss special topics in web development.
 
 Students will participate in discussions and activities of topics relevant to the interactive design community.Sessions may involve alumni panels and other industry experts, focused sessions on tools for workflow or processes that are emerging in the workplace, and other relevant topics. Students will have the option to use some of their Special Topic hours to explore modules in the Special Topics classes that run simultaneously in sister programs (Content Strategy or User Experience Design).
